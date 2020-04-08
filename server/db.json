@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Video Games",
+      "description": "a game played by electronically manipulating images produced by a computer program on a monitor or other display",
+      "id": 1
+    },
+    {
+      "title": "Football",
+      "description": "Победителем голосования экспертов «France Football» в этом году стал лидер «Ювентуса» Омар Сивори. Блистательного туринского левшу называли ...",
+      "id": 2
+    },
+    {
+      "title": "Uzbekistan",
+      "description": "Узбекистан – страна в Центральной Азии, которая некогда входила в состав СССР. ",
+      "id": 3
+    },
+    {
+      "title": "Hello Azimjon brooooo",
+      "description": "brrrrrrrrrrrooooooooooo",
+      "userId": "116766990677956809297",
+      "id": 4
+    }
+  ]
+}
